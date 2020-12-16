@@ -5,9 +5,11 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
+  label: Home
+- type: heading
   label: Products
 - type: heading
-  label: Home
+  label: Services
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
